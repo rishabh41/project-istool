@@ -1,0 +1,12 @@
+{
+    "userdetails":
+        {  
+
+            "name": "Rishabh",
+            "domain": "healthcare",
+            "organization": "NTT Data Services",
+            "SSN": "123-456-789",
+            "Insured": "Y"
+
+        }
+}
